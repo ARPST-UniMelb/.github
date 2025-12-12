@@ -18,17 +18,7 @@ An adequacy framework to enable high-speed, NEM-wide time-sequential operational
 <img alt="Figure overview of the repositories" src="https://github.com/user-attachments/assets/d79d8f6b-31fb-4b62-aa53-42975f4d653d" />
 
 ## Getting started
-
-We recommend creating personal [forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and then cloning the four repositories into the same folder. In a new terminal, navigate to your folder and clone your personal forks:
-
-```sh
-git clone "https://github.com/YOUR-USERNAME/PISP.jl"
-git clone "https://github.com/YOUR-USERNAME/PRASNEM.jl"
-git clone "https://github.com/YOUR-USERNAME/SiennaNEM.jl"
-git clone "https://github.com/YOUR-USERNAME/NEM-reliability-suite"
-```
-
-Then navigate to the "NEM-reliability-suite" and follow the examples in the [ReadMe](https://github.com/ARPST-UniMelb/NEM-reliability-suite).
+**NEM-reliability-suite** compromises tutorial scripts and is able to call the packages, therefore, we recommend starting by following the tutorial in its [ReadMe](https://github.com/ARPST-UniMelb/NEM-reliability-suite).
 
 ## Contact
 For inquiries and details please contact the UniMelb research team lead Prof Pierluigi Mancarella: pierluigi.mancarella@unimelb.edu.au
